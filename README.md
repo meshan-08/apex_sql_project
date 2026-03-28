@@ -12,7 +12,7 @@ Despite steady growth, the company faces several key challenges:
 
 #### An interactive Power BI dashboard can be downloaded here.
 #### SQL queries utilised to clean, organise and prepare data for the dashboard can be found here.
-#### Targetted SQl queries regarding various business questions can be found here.
+#### Targetted SQl queries regarding various business questions can be found [here.](https://github.com/meshan-08/apex_sql_project/blob/main/data_analysis.sql)
 
 
 ## Database structure
