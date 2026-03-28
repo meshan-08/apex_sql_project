@@ -9,6 +9,12 @@ Despite steady growth, the company faces several key challenges:
 - Improving customer lifetime value and repeat purchase rates  
 - Detecting trends in purchasing behaviour over time 
 
+
+#### An interactive Power BI dashboard can be downloaded here.
+#### SQL queries utilised to clean, organise and prepare data for the dashboard can be found here.
+#### Targetted SQl queries regarding various business questions can be found here.
+
+
 ## Database structure
 
 
