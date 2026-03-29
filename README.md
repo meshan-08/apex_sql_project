@@ -16,8 +16,9 @@ Despite steady growth, the company faces several key challenges:
 
 
 ## Database structure
-
-
+<p align = "center">
+  <img width="439" height="516" alt="image" src="https://github.com/user-attachments/assets/48fcde62-dc9f-4041-976e-354a0640f3e9" />
+</p>
 
 ## Analysis areas
 ### Customer segmentation
